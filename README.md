@@ -8,7 +8,6 @@
 
 ## 🚀 **About Me**
 
-```typescript
 const semyon = {
   age: 23,
   role: "FullStack Developer",
@@ -27,7 +26,6 @@ const semyon = {
 }
 🛠 Tech Stack & Weapons
 Backend Arsenal
-javascript
 const backend = {
   runtime: "Node.js",
   framework: "Express.js",
@@ -38,7 +36,6 @@ const backend = {
   deployment: "Docker"
 }
 Frontend Toolkit
-javascript
 const frontend = {
   library: "React",
   language: "TypeScript",
@@ -50,7 +47,6 @@ const frontend = {
 🔥 Real-time Chat Platform
 Next-generation messaging experience
 
-typescript
 const realTimeChat = {
   features: [
     "Live messaging with WebSockets",
@@ -66,7 +62,6 @@ const realTimeChat = {
 📅 ShiftFlow Calendar
 Smart employee scheduling system
 
-typescript
 const shiftCalendar = {
   features: [
     "Interactive shift management",
