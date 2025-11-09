@@ -86,17 +86,6 @@
 - Caching Strategies
 - Database Indexing
 
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thienla0o0&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thienla0o0&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thienla0o0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 ## 🌐 **Connect With Me**
 
 <div align="center">
