@@ -9,14 +9,13 @@
 ## 🚀 **About Me**
 
 **Age:** 23  
-**Role:** FullStack Developer  
+**Role:** Backend Developer  
 **Location:** Russia  
 **Passions:** Real-time Applications, Clean Architecture, Performance Optimization, System Design  
 
 **Contact:**  
 📧 sburkalev@gmail.com  
-📱 @Thienla0o0  
-🌐 Portfolio: Coming soon...
+📱 @Thienla0o0
 
 ## 🛠 **Tech Stack & Weapons**
 
