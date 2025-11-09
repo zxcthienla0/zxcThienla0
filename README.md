@@ -41,7 +41,7 @@
 
 ## 💻 **My Projects**
 
-### 🔥 **Real-time Chat Platform**
+## 🔥 **Real-time Chat Platform**
 **Next-generation messaging experience**
 
 ⭐ **Features:**
@@ -56,7 +56,7 @@
 🟢 **Status:** Active Development  
 📁 **Repository:** [https://github.com/zxcThienla0/real-time-chat](https://github.com/zxcThienla0/real-time-chat)
 
-### 📅 **ShiftFlow Calendar** 
+## 📅 **ShiftFlow Calendar** 
 **Smart employee scheduling system**
 
 ⭐ **Features:**
