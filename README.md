@@ -53,7 +53,8 @@
 - User presence system
 
 🛠 **Stack:** Node.js, Express, WebSockets, PostgreSQL, React, TypeScript  
-🟢 **Status:** Active Development
+🟢 **Status:** Active Development  
+📁 **Repository:** [https://github.com/zxcThienla0/real-time-chat](https://github.com/zxcThienla0/real-time-chat)
 
 ### 📅 **ShiftFlow Calendar** 
 **Smart employee scheduling system**
@@ -65,7 +66,10 @@
 - Export functionality
 
 🛠 **Stack:** React, TypeScript, Node.js, PostgreSQL, JWT  
-🚀 **Status:** Production Ready
+🚀 **Status:** Production Ready  
+🌐 **Live Demo:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
+📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler](https://github.com/zxcThienla0/task-scheduler)  
+📁 **Frontend:** [https://github.com/zxcThienla0/task-scheduler-frontend](https://github.com/zxcThienla0/task-scheduler-frontend)
 
 ## 🌐 **Connect With Me**
 
