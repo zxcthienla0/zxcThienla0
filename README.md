@@ -41,6 +41,29 @@
 
 ### 💻 **My Projects**
 
+## 🛒 **Web Market Backend**
+**Full-featured E-commerce API with advanced product management**
+
+⭐ **Features:**
+- Complete product CRUD operations with color variants
+- Advanced filtering system (price, colors, custom specifications)
+- Smart product sales & discount management
+- Multi-image upload system with Cloudinary integration
+- Product categorization with custom filters
+- Color-based image organization
+- Pagination with optimized queries
+- UUID-based product identification
+
+🛠 **Stack:** Node.js, Express, Sequelize ORM, PostgreSQL, Cloudinary, UUID, Multer
+⚙️ **Architecture:** Modular service pattern, RESTful API design, centralized error handling
+🔒 **Security:** Input validation, SQL injection protection, file type validation
+
+☁️ **Cloud Infrastructure:**
+- Hosting: Vercel Serverless Deployment
+- Database: External PostgreSQL on Neon.tech
+- Storage: Cloudinary for image hosting & optimization
+- **Live API:** https://express-js-on-vercel-eight-weld.vercel.app/
+
 ## 🔥 **Real-time Chat Platform**
 **Next-generation messaging experience**
 
