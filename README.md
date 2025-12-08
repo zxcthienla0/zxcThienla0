@@ -53,8 +53,8 @@
 - Pagination with optimized queries
 - UUID-based product identification
 
-🛠 **Stack:** Node.js, Express, Sequelize ORM, PostgreSQL, Cloudinary, UUID, Multer
-🔒 **Security:** Input validation, SQL injection protection, file type validation
+🛠 **Stack:** Node.js, Express, Sequelize ORM, PostgreSQL, Cloudinary, UUID, Multer 
+🔒 **Security:** Input validation, SQL injection protection, file type validation 
 🟢 **Status:** Production Ready  
 📁 **Repository:** [https://github.com/zxcThienla0/e-commerce-backend](https://github.com/zxcThienla0/e-commerce-backend)
 
