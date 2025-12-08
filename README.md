@@ -45,7 +45,6 @@
 **Full-featured E-commerce API with advanced product management**
 
 ⭐ **Features:**
-- Complete product CRUD operations with color variants
 - Advanced filtering system (price, colors, custom specifications)
 - Smart product sales & discount management
 - Multi-image upload system with Cloudinary integration
@@ -55,8 +54,9 @@
 - UUID-based product identification
 
 🛠 **Stack:** Node.js, Express, Sequelize ORM, PostgreSQL, Cloudinary, UUID, Multer
-⚙️ **Architecture:** Modular service pattern, RESTful API design, centralized error handling
 🔒 **Security:** Input validation, SQL injection protection, file type validation
+🟢 **Status:** Production Ready  
+📁 **Repository:** [https://github.com/zxcThienla0/e-commerce-backend](https://github.com/zxcThienla0/e-commerce-backend)
 
 ☁️ **Cloud Infrastructure:**
 - Hosting: Vercel Serverless Deployment
@@ -76,7 +76,7 @@
 - User presence system
 
 🛠 **Stack:** Node.js, Express, WebSockets, PostgreSQL, React, TypeScript  
-🟢 **Status:** Active Development  
+🟢 **Status:** Production Ready  
 📁 **Repository:** [https://github.com/zxcThienla0/real-time-chat](https://github.com/zxcThienla0/real-time-chat)
 
 ## 📅 **ShiftFlow Calendar** 
@@ -90,7 +90,7 @@
 
 🛠 **Stack:** React, TypeScript, Node.js, PostgreSQL, JWT  
 🚀 **Status:** Production Ready  
-🌐 **Live Demo:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
+🌐 **Live:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
 📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler](https://github.com/zxcThienla0/task-scheduler)  
 📁 **Frontend:** [https://github.com/zxcThienla0/task-scheduler-frontend](https://github.com/zxcThienla0/task-scheduler-frontend)
 
