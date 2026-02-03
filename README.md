@@ -61,9 +61,13 @@
 - Mobile-first, responsive design with Tailwind CSS
 
 🛠 **Full Stack:** React, TypeScript, Vite, Node.js, PostgreSQL, JWT  
+
 🚀 **Status:** Production Ready  
+
 🌐 **Live Demo:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
+
 📁 **Frontend Code:** [https://github.com/zxcThienla0/task-scheduler-frontend](https://github.com/zxcThienla0/task-scheduler-frontend)
+
 📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler  ](https://github.com/zxcThienla0/task-scheduler)
 
 ---
@@ -80,7 +84,9 @@
 - Form validation powered by **React Hook Form**
 
 🛠 **Tech:** React, TypeScript, Tailwind CSS, WebSockets, Node.js  
+
 🟢 **Status:** Production Ready  
+
 📁 **Repository:** [https://github.com/zxcThienla0/real-time-chat](https://github.com/zxcThienla0/real-time-chat)
 
 ---
