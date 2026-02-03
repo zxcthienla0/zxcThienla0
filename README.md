@@ -64,7 +64,7 @@
 🚀 **Status:** Production Ready  
 🌐 **Live Demo:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
 📁 **Frontend Code:** [https://github.com/zxcThienla0/task-scheduler-frontend](https://github.com/zxcThienla0/task-scheduler-frontend)
-📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler  ](https://github.com/zxcThienla0/task-scheduler  )  
+📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler  ](https://github.com/zxcThienla0/task-scheduler)
 
 ---
 
@@ -85,18 +85,39 @@
 
 ---
 
-## 🛒 **Web Market — Frontend Experience**  
-*(Backed by a robust e-commerce API)*
+## 🎨  **Figma-to-Tailwind Practice**
+**Pixel-perfect responsive layout from Figma using React 19 + Tailwind CSS**
+⭐ **Frontend Highlights:**
+- 1:1 visual match with original Figma design (spacing, typography, colors)
+- Zero custom CSS — pure Tailwind utility classes
+- Fully responsive across mobile, tablet, and desktop breakpoints
+- Precise layout with flex, grid, and spacing utilities
+- Design system adherence (exact HEX/RGB, font sizes, line heights)
+- Optimized component structure with TypeScript
 
-While the backend handles product logic, I designed and implemented a **clean, performant frontend interface** that supports:
-- Dynamic filtering & sorting (price, color, specs)
-- Image galleries with lazy loading
-- Responsive product cards & category navigation
-- Optimized data fetching with efficient pagination
-- Complex forms with validation using **React Hook Form** and **TypeScript**
 
-🛠 **Frontend Stack:** React, TypeScript, Vite, Tailwind CSS, Sass  
-🔗 **Note:** Backend available separately — but the magic users see is all frontend!
+🛠 **Tech:** React 19, TypeScript, Tailwind CSS 4, Vite
+🟢 **Status:**  Complete & Deployed
+🌐 **Live Demo:** [https://zxcThienla0.github.io/FigmaTW-Practice](https://zxcThienla0.github.io/FigmaTW-Practice)
+📁 **Repository:** [https://github.com/zxcThienla0/FigmaTW-Practice](https://github.com/zxcThienla0/FigmaTW-Practice)
+
+
+---
+
+## 📰 **Akella24front**
+**A lightweight, responsive news slider built with React 19 + TypeScript**
+⭐ **Frontend Highlights:**
+- Swipeable news carousel with mouse, touch, and keyboard navigation
+- Data-driven UI using local JSON (no backend required)
+- Form handling & filtering via React Hook Form
+- Fully responsive layout powered by Swiper.js
+- Strict TypeScript typing for data and components
+- Modern tooling: Vite + ESLint + React 19 best practices
+
+🛠 **Tech:** React 19, TypeScript, Vite, Swiper, React Hook Form, Axios
+🟢 **Status:** Complete & Ready for Demo
+🌐 **Live Demo:** [https://zxcThienla0.github.io/Akella24front](https://zxcThienla0.github.io/Akella24front)
+📁 **Repository:** [https://github.com/zxcThienla0/Akella24front](https://github.com/zxcThienla0/Akella24front)
 
 ---
 
