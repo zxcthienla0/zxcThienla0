@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Semyon+Burkalev;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Semyon+Burkalev;" />
 </h1>
 
 <div align="center">
@@ -9,27 +9,15 @@
 ## 🚀 **About Me**
 
 **Age:** 23  
-**Role:** Backend Developer  
+**Role:** Frontend Developer  
 **Location:** Russia  
-**Passions:** Real-time Applications, Clean Architecture, Performance Optimization, System Design  
+**Passions:** UI/UX, Responsive Design, Real-time Interfaces, Performance Optimization  
 
 **Contact:**  
 📧 sburkalev@gmail.com  
 📱 @Thienla0o0
 
-## 🛠 **Tech Stack & Weapons**
-
-### **Backend Arsenal**
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## 🛠 **Tech Stack & Tools**
 
 ### **Frontend Toolkit**
 <div>
@@ -39,63 +27,64 @@
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 </div>
 
+### **Backend & Infrastructure (to power my frontend)**
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
 ### 💻 **My Projects**
 
-## 🛒 **Web Market Backend**
-**Full-featured E-commerce API with advanced product management**
+## 📅 **ShiftFlow Calendar**  
+**Smart employee scheduling with a sleek, responsive interface**
 
-⭐ **Features:**
-- Advanced filtering system (price, colors, custom specifications)
-- Smart product sales & discount management
-- Multi-image upload system with Cloudinary integration
-- Product categorization with custom filters
-- Color-based image organization
-- Pagination with optimized queries
-- UUID-based product identification
+⭐ **Frontend Highlights:**
+- Fully interactive calendar built with React & TypeScript
+- Real-time updates with WebSocket integration
+- Public sharing links with read-only access
+- Export functionality (PDF/CSV)
+- Mobile-first, responsive design with Tailwind CSS
 
-🛠 **Stack:** Node.js, Express, Sequelize ORM, PostgreSQL, Cloudinary, UUID, Multer 
+🛠 **Full Stack:** React, TypeScript, Vite, Node.js, PostgreSQL, JWT  
+🚀 **Status:** Production Ready  
+🌐 **Live Demo:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
+📁 **Frontend Code:** [https://github.com/zxcThienla0/task-scheduler-frontend](https://github日消息.com/zxcThienla0/task-scheduler-frontend)
 
-🔒 **Security:** Input validation, SQL injection protection, file type validation 
+---
 
-🟢 **Status:** Production Ready  
+## 🔥 **Real-time Chat Platform**  
+**Modern messaging UI with live interaction**
 
-📁 **Repository:** [https://github.com/zxcThienla0/e-commerce-backend](https://github.com/zxcThienla0/e-commerce-backend)
+⭐ **Frontend Features:**
+- Real-time message streaming with WebSocket-powered UI
+- Voice message recording & playback using Web Audio API
+- File upload previews & drag-and-drop support
+- Multi-room navigation with dynamic UI updates
+- JWT-authenticated user sessions with smooth UX
 
-☁️ **Cloud Infrastructure:**
-- Hosting: Vercel Serverless Deployment
-- Database: External PostgreSQL on Neon.tech
-- Storage: Cloudinary for image hosting & optimization
-- **Live API:** https://express-js-on-vercel-eight-weld.vercel.app/
-
-## 🔥 **Real-time Chat Platform**
-**Next-generation messaging experience**
-
-⭐ **Features:**
-- Live messaging with WebSockets
-- Voice messages recording & playback  
-- File sharing
-- Multiple chat rooms
-- Secure JWT authentication
-- User presence system
-
-🛠 **Stack:** Node.js, Express, WebSockets, PostgreSQL, React, TypeScript  
+🛠 **Tech:** React, TypeScript, Tailwind CSS, WebSockets, Node.js  
 🟢 **Status:** Production Ready  
 📁 **Repository:** [https://github.com/zxcThienla0/real-time-chat](https://github.com/zxcThienla0/real-time-chat)
 
-## 📅 **ShiftFlow Calendar** 
-**Smart employee scheduling system**
+---
 
-⭐ **Features:**
-- Interactive shift management
-- Public read-only sharing links
-- Real-time updates
-- Export functionality
+## 🛒 **Web Market — Frontend Experience**  
+*(Backed by a robust e-commerce API)*
 
-🛠 **Stack:** React, TypeScript, Node.js, PostgreSQL, JWT  
-🚀 **Status:** Production Ready  
-🌐 **Live:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
-📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler](https://github.com/zxcThienla0/task-scheduler)  
-📁 **Frontend:** [https://github.com/zxcThienla0/task-scheduler-frontend](https://github.com/zxcThienla0/task-scheduler-frontend)
+While the backend handles product logic, I designed and implemented a **clean, performant frontend interface** that supports:
+- Dynamic filtering & sorting (price, color, specs)
+- Image galleries with lazy loading
+- Responsive product cards & category navigation
+- Optimized data fetching with efficient pagination
+
+🛠 **Frontend Stack:** React, TypeScript, Vite, Tailwind CSS  
+🔗 **Note:** Backend available separately — but the magic users see is all frontend!  
+
+---
 
 ## 🌐 **Connect With Me**
 
