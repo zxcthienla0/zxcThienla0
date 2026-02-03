@@ -97,8 +97,11 @@
 
 
 🛠 **Tech:** React 19, TypeScript, Tailwind CSS 4, Vite
+
 🟢 **Status:**  Complete & Deployed
+
 🌐 **Live Demo:** [https://zxcThienla0.github.io/FigmaTW-Practice](https://zxcThienla0.github.io/FigmaTW-Practice)
+
 📁 **Repository:** [https://github.com/zxcThienla0/FigmaTW-Practice](https://github.com/zxcThienla0/FigmaTW-Practice)
 
 
@@ -115,8 +118,11 @@
 - Modern tooling: Vite + ESLint + React 19 best practices
 
 🛠 **Tech:** React 19, TypeScript, Vite, Swiper, React Hook Form, Axios
+
 🟢 **Status:** Complete & Ready for Demo
+
 🌐 **Live Demo:** [https://zxcThienla0.github.io/Akella24front](https://zxcThienla0.github.io/Akella24front)
+
 📁 **Repository:** [https://github.com/zxcThienla0/Akella24front](https://github.com/zxcThienla0/Akella24front)
 
 ---
