@@ -17,7 +17,7 @@
 📧 sburkalev@gmail.com  
 📱 @Thienla0o0
 
-###🔧 **Backend Stack Expertise**
+## 🔧 **Backend Stack Expertise**
 **Core Backend Technologies**
 
 <div> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" /> </div>
