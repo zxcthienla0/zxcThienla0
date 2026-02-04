@@ -40,39 +40,40 @@
 
 ### 💻 **My Projects**
 
-## 📅 **ShiftFlow Calendar**  
+## 📅 **ShiftFlow Calendar - Full Stack**  
 
-⭐ **Highlights:**
-- Fully interactive calendar built with React & TypeScript
-- Real-time updates with WebSocket integration
-- Public sharing links with read-only access
-- Export functionality (PDF/CSV)
+⭐ **Backend Highlights:**
+- **Node.js/Express API** with JWT authentication
+- **PostgreSQL + Prisma ORM** for calendar data management
+- **Public link generation** with read-only access
+- **Server-side export** (PDF/CSV) functionality
 
-🛠 **Full Stack:** React, TypeScript, Vite, Node.js, PostgreSQL, JWT  
+🛠 **Full Stack Architecture:**  
+**Backend:** Node.js, Express, PostgreSQL, Prisma, JWT  
+**Frontend:** React, TypeScript, Vite
 
 🚀 **Status:** Production Ready  
 
 🌐 **Live Demo:** [http://akella24calendar.ru/](http://akella24calendar.ru/)  
 
-📁 **Backend:** [https://github.com/zxcThienla0/task-scheduler](https://github.com/zxcThienla0/task-scheduler)
+📁 **Backend Repository:** [https://github.com/zxcThienla0/task-scheduler](https://github.com/zxcThienla0/task-scheduler)  
+📁 **Frontend Repository:** [https://github.com/zxcthienla0/Akella24calendar](https://github.com/zxcthienla0/Akella24calendar)
 
-📁 **Frontend Code:** [https://github.com/zxcthienla0/Akella24calendar](https://github.com/zxcthienla0/Akella24calendar)
 
 
 ---
 
-## 🔥 **Real-time Chat Platform**  
-**Modern messaging UI with live interaction**
+## 🔥 **Real-time Chat Platform - Full Stack**  
+**Backend with WebSocket and audio processing**
 
-⭐ **Frontend Features:**
-- Real-time message streaming with WebSocket-powered UI
-- Voice message recording & playback using Web Audio API
-- File upload previews & drag-and-drop support
-- Multi-room navigation with dynamic UI updates
-- JWT-authenticated user sessions with smooth UX
-- Form validation powered by **React Hook Form**
+⭐ **Backend Features:**
+- **WebSocket server** for bidirectional communication
+- **Audio message processing** via Web Audio API
+- **JWT authentication** for WebSocket connections
+- **Room and user management system**
+- **Message history storage**
 
-🛠 **Tech:** React, TypeScript, Tailwind CSS, WebSockets, Node.js  
+🛠 **Stack:** Node.js, Express, WebSocket, PostgreSQL, JWT, React, TypeScript  
 
 🟢 **Status:** Production Ready  
 
@@ -80,41 +81,55 @@
 
 ---
 
-## 🎨  **Figma-to-Tailwind Practice**
-**Pixel-perfect responsive layout from Figma using React 19 + Tailwind CSS**
+## 🛍️ **E-Commerce Backend API**  
+**Backend server for online store**
+
+⭐ **Backend Architecture:**
+- **Node.js + Express REST API**
+- **PostgreSQL + Sequelize ORM** with migrations
+- **JWT (Access + Refresh)** authentication system
+- **Cloudinary CDN** for media files
+- **Dynamic filtering** via PostgreSQL JSONB fields
+
+🛠 **Backend Stack:** Node.js, Express, PostgreSQL, Sequelize, JWT, Cloudinary, bcrypt  
+
+🟢 **Status:** Production Ready Backend  
+
+📁 **Repository:** [https://github.com/zxcThienla0/e-commerce-backend](https://github.com/zxcThienla0/e-commerce-backend)
+
+---
+
+## 🎨 **Figma-to-Tailwind Practice - Frontend Only**  
+**Pixel-perfect responsive layout from Figma**
+
 ⭐ **Frontend Highlights:**
-- 1:1 visual match with original Figma design (spacing, typography, colors)
-- Zero custom CSS — pure Tailwind utility classes
-- Fully responsive across mobile, tablet, and desktop breakpoints
-- Precise layout with flex, grid, and spacing utilities
-- Design system adherence (exact HEX/RGB, font sizes, line heights)
-- Optimized component structure with TypeScript
+- 1:1 visual match with Figma design
+- Pure Tailwind CSS with no custom styles
+- Full mobile responsiveness
+- Component-based approach with TypeScript
 
+🛠 **Frontend Stack:** React 19, TypeScript, Tailwind CSS 4, Vite  
 
-🛠 **Tech:** React 19, TypeScript, Tailwind CSS 4, Vite
-
-🟢 **Status:**  Complete & Deployed
+🟢 **Status:**  Frontend Demo Project  
 
 🌐 **Live Demo:** [https://zxcThienla0.github.io/FigmaTW-Practice](https://zxcThienla0.github.io/FigmaTW-Practice)
 
 📁 **Repository:** [https://github.com/zxcThienla0/FigmaTW-Practice](https://github.com/zxcThienla0/FigmaTW-Practice)
 
-
 ---
 
-## 📰 **Akella24front**
+## 📰 **Akella24front - Frontend Only**  
+**React SPA with news carousel**
 
-⭐ **Highlights:**
-- Swipeable news carousel with mouse, touch, and keyboard navigation
-- Data-driven UI using local JSON (no backend required)
-- Form handling & filtering via React Hook Form
-- Fully responsive layout powered by Swiper.js
-- Strict TypeScript typing for data and components
-- Modern tooling: Vite + ESLint + React 19 best practices
+⭐ **Frontend Features:**
+- Swipeable carousel using Swiper.js
+- Local state management (no backend)
+- Form handling with React Hook Form
+- TypeScript for type safety
 
-🛠 **Tech:** React 19, TypeScript, Vite, Swiper, React Hook Form, Axios
+🛠 **Frontend Stack:** React 19, TypeScript, Vite, Swiper, React Hook Form  
 
-🟢 **Status:** Complete & Ready for Demo
+🟢 **Status:** Frontend Demo Project  
 
 🌐 **Live Demo:** [https://zxcThienla0.github.io/Akella24front](https://zxcThienla0.github.io/Akella24front)
 
